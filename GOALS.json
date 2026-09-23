@@ -1,0 +1,37 @@
+{
+  "version": "0.3",
+  "vision": "Star Trek inspired universal capabilities: everyone can obtain basic necessities, learn, contribute, explore and live within ecological limits.",
+  "qualification": "A goal reference states intent, not achieved impact. Outcomes need separate evidence.",
+  "goals": {
+    "basic_needs": {
+      "aim": "Reduce unmet access to food, shelter, healthcare and essential services.",
+      "candidate_measure": "Share of an affected population able to obtain a defined service within a defined time and cost.",
+      "machine_work": "Find gaps, contradictory information and feasible logistics options."
+    },
+    "knowledge_access": {
+      "aim": "Make reliable information and education accessible regardless of language or technical background.",
+      "candidate_measure": "Comprehension, factual accuracy and accessibility on an independently defined sample.",
+      "machine_work": "Translate, compare, verify and repair open educational or service information."
+    },
+    "open_infrastructure": {
+      "aim": "Increase reusable, inspectable tools and interoperable public data.",
+      "candidate_measure": "Number of independently reproduced integrations and resolved incompatibilities.",
+      "machine_work": "Build adapters, documentation and reference tests."
+    },
+    "scientific_capacity": {
+      "aim": "Speed reproducible research and practical problem solving.",
+      "candidate_measure": "Independent replications and corrected errors rather than publication volume.",
+      "machine_work": "Find contradictions, produce counterexamples and reproduce computations."
+    },
+    "fair_coordination": {
+      "aim": "Make the effects of resource allocation choices visible and contestable.",
+      "candidate_measure": "Disaggregated access outcomes and documented trade-offs across affected groups.",
+      "machine_work": "Compare scenarios and disclose assumptions; do not impose a distribution."
+    },
+    "ecological_limits": {
+      "aim": "Reduce material and energy waste while protecting ecological capacity.",
+      "candidate_measure": "Measured energy, materials and emissions per delivered service at comparable quality.",
+      "machine_work": "Find waste, simulate alternatives and check lifecycle assumptions."
+    }
+  }
+}

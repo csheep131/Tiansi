@@ -1,0 +1,5 @@
+[
+  {"id":"r1","subject":"Center A","predicate":"Monday opening","value":"09:00","source":"synthetic-public-listing-A"},
+  {"id":"r2","subject":"Center A","predicate":"Monday opening","value":"10:00","source":"synthetic-public-listing-B"},
+  {"id":"r3","subject":"Center B","predicate":"Tuesday opening","value":"09:00","source":"synthetic-public-listing-C"}
+]

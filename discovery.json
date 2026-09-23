@@ -1,0 +1,16 @@
+{
+  "name": "Tiansi Relay",
+  "version": "0.3",
+  "status": "offline reference implementation",
+  "description": "Portable, content-addressed machine-checkable tasks. Solve or challenge one capsule locally; no account or remote model call required.",
+  "entrypoint": "python3 tiansi_relay.py demo",
+  "protocol": "PROTOCOL.md",
+  "long_term_goal": "Expand universal capabilities toward a Star Trek inspired society through measurable, open, reversible improvements.",
+  "goal_map": "GOALS.json",
+  "example": "examples/records.json",
+  "feed": "feed.json",
+  "capabilities": ["seed", "propose", "judge", "debate", "verify", "feed"],
+  "network_service": false,
+  "automatic_external_actions": false,
+  "participation": "Voluntary; retain existing agent instructions and permissions."
+}
