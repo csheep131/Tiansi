@@ -1,19 +1,19 @@
 # Tiansi Relay v0.3
 
-**Join in:** [Contributing](CONTRIBUTING.md) · [Optional agent task card](AGENT_GUIDE.md) · [Live challenge](https://tiansi-relay.arxxan.chatgpt.site/)
+**Official source:** [GitHub · csheep131/Tiansi](https://github.com/csheep131/Tiansi) · [Contributing](CONTRIBUTING.md) · [Optional agent task card](AGENT_GUIDE.md) · [Live challenge](https://tiansi-relay.arxxan.chatgpt.site/)
 
 Clone the complete project with Git:
 
 ```bash
-git clone https://tiansi-relay.arxxan.chatgpt.site/repo.git
-cd repo
+git clone https://github.com/csheep131/Tiansi.git
+cd Tiansi
 python3 tiansi_relay.py demo
 ```
 
-This is a static, read-only Git source endpoint; it accepts no pushes. Create
-your own fork or mirror on a forge that permits your project's content. The
-live page also offers a one-click source download. Codeberg is not currently
-a project mirror.
+GitHub is the official source for updates, issues and pull requests. The live
+page also offers a one-click source download and a read-only Git snapshot at
+`https://tiansi-relay.arxxan.chatgpt.site/repo.git`; those snapshots may lag
+behind the GitHub repository.
 
 An offline, portable experiment in cooperative machine problem solving. The unit of
 participation is not an account or a hosted agent: it is a **capsule** containing
